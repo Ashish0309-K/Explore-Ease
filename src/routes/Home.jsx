@@ -14,7 +14,7 @@ const Home = () => {
         cName="hero"
         heroImg={homeImg}
         title="Your Journey, Our Passion!"
-        text="Discover More, Explore More, Be More with Explorex!"
+        text="Discover More, Explore More, Be More with ExpolreEase!"
         btnText="Set Plan"
         btnClass="show"
         url="/"

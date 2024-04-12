@@ -5,10 +5,10 @@ const AboutUs = () => {
   return (
     <>
       <div className="about">
-        <h2>Welcome to Expolrex: Your Gateway to Extraordinary Adventures!</h2>
+        <h2>Welcome to ExploreEase: Your Gateway to Extraordinary Adventures!</h2>
         <p>
           Are you ready to embark on a journey of a lifetime? Look no further
-          than Expolrex - your premier destination for unparalleled travel
+          than ExploreEase - your premier destination for unparalleled travel
           experiences. We're not just a tour and travel website; we're your
           partner in exploration, dedicated to making your travel dreams a
           reality. <br />
@@ -30,10 +30,10 @@ const AboutUs = () => {
         </p>
         <h3>3. Sustainable and Responsible Travel</h3>
         <p>
-          Expolrex is committed to sustainable and responsible tourism. We
+        ExploreEase is committed to sustainable and responsible tourism. We
           strive to minimize our environmental impact, support local
           communities, and preserve the natural and cultural heritage of the
-          places we visit. By choosing Expolrex, you're contributing to
+          places we visit. By choosing ExploreEase, you're contributing to
           responsible travel practices.
         </p>
         <h3>4. Customer-Centric Approach</h3>
@@ -50,14 +50,14 @@ const AboutUs = () => {
           book with confidence in just a few clicks.
         </p>
         <div>
-          Join us at Expolrex and unlock a world of exploration and discovery.
+          Join us at ExploreEase and unlock a world of exploration and discovery.
           Whether you're a seasoned traveler or venturing out for the first
           time, our commitment to excellence and our passion for travel will
           make your experience truly extraordinary. Come, let's explore the
           world together.
           <br />
           <br />
-          Your adventure starts here, at Expolrex.
+          Your adventure starts here, at ExploreEase.
         </div>
       </div>
     </>

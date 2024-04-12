@@ -7,7 +7,7 @@ const Footer = () => {
       <div className="footer">
         <div className="top">
           <div>
-            <h1>ExploreX</h1>
+            <h1>ExploreEase</h1>
             <p>Choose Your Favourite Destination!</p>
           </div>
           <div>
@@ -28,16 +28,16 @@ const Footer = () => {
         <div className="bottom">
           <div>
             <h3>Contact Us</h3>
-            <a href="/">Address: Bangalore</a>
-            <a href="/">Zip code: 560004</a>
-            <a href="/">Email: explorex@ac.in</a>
-            <a href="/">Phone: 1800 658 547</a>
+            <a href="/">Address: Bhopal</a>
+            <a href="/">Zip code: 462021</a>
+            <a href="/">Email: exploreease@ac.in</a>
+            <a href="/">Phone: 1800 241 962</a>
           </div>
           <div>
             <h3>Explore With Us</h3>
             <a href="/">More Tours</a>
             <a href="/">Blog</a>
-            <a href="/">Signup</a>
+            <a href="/">SignUp</a>
             <a href="/">Status</a>
           </div>
           <div>
@@ -56,7 +56,7 @@ const Footer = () => {
           </div>
         </div>
         <div className="copy">
-          Copyright © 2023 with ExploreX. All Rights Reserved.
+          Copyright © 2024 with ExploreEase. All Rights Reserved.
         </div>
       </div>
     </>

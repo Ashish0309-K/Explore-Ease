@@ -13,7 +13,7 @@ const Navbar = () => {
   return (
     <>
       <nav className="NavbarItems">
-        <h1 className="navbar-logo">ExploreX</h1>
+        <h1 className="navbar-logo">ExploreEase</h1>
 
         <div className="menu-icons" onClick={handleIcon}>
           {isIconClicked ? (
